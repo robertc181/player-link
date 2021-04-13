@@ -1,45 +1,28 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Player Link
 
-Welcome USER_NAME,
+Player Link is an online platform that will link football players with scouts, So that scouts can watch a football player and find out when they will be playing there next football games and more information about said player, such as current team , position , preffered foot etc. This platform will also allow a player to view which scouts are watching them and which scouts will be going to thier games. A player will be able to create an account with Player Link and put up information about themselves, they can also create an event which they can set a time place and name. If a scout has started scouting a player on Player Link they will be allowed to view a players events and click on the ones that they wish to go to. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+A scout can also sign up with Player Link to find talented footballers and get more information about them and there football games. They will have a profile where they can search for players and view all players profiles they have scouted on Player Link and view all the events they have opted to go to.  
 
-## Gitpod Reminders
+## UX
+ 
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Existing Features
 
-`python3 -m http.server`
+### Features Left to Implement
 
-A blue button should appear to click: _Make Public_,
+## Technologies Used
 
-Another blue button should appear to click: _Open Browser_.
+## Testing
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Deployment
 
-A blue button should appear to click: _Make Public_,
+## Credits
 
-Another blue button should appear to click: _Open Browser_.
+### Content
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### Media
 
-## Updates Since The Instructional Video
+### Acknowledgements
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
----
-
-Happy coding!
