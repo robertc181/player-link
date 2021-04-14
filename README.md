@@ -6,11 +6,11 @@ A scout can also sign up with Player Link to find talented footballers and get m
 
 ## UX
 
-1. App Goals
+### App Goals
     
     My objective with Player Link is to firstly allow scouts who are struggling to find players around thier area to scout and help them connect with players and hopefull come accross some talent, Player Link allows a scout to search for a players name then click to view that players profile, The scout can then click to scout that player and now he can view thier events, A scout can click to attend an event such as a game or tournament which will notify the player that the scout is going to thier event. As a player this allows many player with a chance to connect with more scouts and hopefully get a better chance to showcase thier talent and invite more scouts to thier games
 
-2. User stories
+### User stories
 
     1. As a new visitor to the website I want to navigate the site with ease and no confusion.
 
@@ -46,18 +46,19 @@ A scout can also sign up with Player Link to find talented footballers and get m
    
     17. As a new visitor to the website I want to be able to view the website on phone desktop and tablet
 
-3. Wireframes
+### Wireframes
 
     * https://github.com/robertc181/player-link/tree/master/Wireframe
  
 ## Features
 
-1. Plan
+### Plan
 
     * [Flow Chart](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0679.jpg)
     * [Python Functions Plan](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0690.jpg)
+    * [Data Structure](https://github.com/robertc181/player-link/blob/master/Plan/data-structure)
 
-
+### Existing Features
 
 ### Existing Features
 
