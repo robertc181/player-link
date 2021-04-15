@@ -1,6 +1,6 @@
+
 import os
 from flask import Flask
-from flask_pymongo import PyMongo
 if os.path.exists("env.py"):
     import env
 
@@ -8,18 +8,12 @@ if os.path.exists("env.py"):
 app = Flask(__name__)
 
 
-app.config["MONGO_DBNAME"] = os.environ.get("MONGO_DBNAME")
-app.config["MONGO_URI"] = os.environ.get("MONGO_URI")
-app.secret_key = os.environ.get("SECRET_KEY")
+@app.route("/")
+def hello():
+    return "Hello World ... again! im working"
 
 
-@app.route('/')
-def index():
-    return "hello player_link"
-    
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run(host=os.environ.get("IP"),
             port=int(os.environ.get("PORT")),
             debug=True)
