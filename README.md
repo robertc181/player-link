@@ -8,7 +8,7 @@ A scout can also sign up with Player Link to find talented footballers and get m
 
 ### App Goals
     
-    My objective with Player Link is to firstly allow scouts who are struggling to find players around thier area to scout and help them connect with players and hopefull come accross some talent, Player Link allows a scout to search for a players name then click to view that players profile, The scout can then click to scout that player and now he can view thier events, A scout can click to attend an event such as a game or tournament which will notify the player that the scout is going to thier event. As a player this allows many player with a chance to connect with more scouts and hopefully get a better chance to showcase thier talent and invite more scouts to thier games
+My objective with Player Link is to firstly allow scouts who are struggling to find players around thier area to scout and help them connect with players and hopefull come accross some talent, Player Link allows a scout to search for a players name then click to view that players profile, The scout can then click to scout that player and now he can view thier events, A scout can click to attend an event such as a game or tournament which will notify the player that the scout is going to thier event. As a player this allows many player with a chance to connect with more scouts and hopefully get a better chance to showcase thier talent and invite more scouts to thier games.
 
 ### User stories
 
@@ -54,7 +54,7 @@ A scout can also sign up with Player Link to find talented footballers and get m
 
 ### Plan
 - [Flow Chart](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0679.jpg)
-- [Routing plan](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0690.jpg)
+- [Routing plan](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0691.jpg)
 - [Data Structure](https://github.com/robertc181/player-link/blob/master/Plan/data-structure)
 
 ### Existing Features
