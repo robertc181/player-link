@@ -48,15 +48,14 @@ A scout can also sign up with Player Link to find talented footballers and get m
 
 ### Wireframes
 
-    * https://github.com/robertc181/player-link/tree/master/Wireframe
+- [Wireframes](https://github.com/robertc181/player-link/tree/master/Wireframe)
  
 ## Features
 
 ### Plan
-
-    * [Flow Chart](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0679.jpg)
-    * [Python Functions Plan](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0690.jpg)
-    * [Data Structure](https://github.com/robertc181/player-link/blob/master/Plan/data-structure)
+- [Flow Chart](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0679.jpg)
+- [Routing plan](https://github.com/robertc181/player-link/blob/master/Plan/IMG_0690.jpg)
+- [Data Structure](https://github.com/robertc181/player-link/blob/master/Plan/data-structure)
 
 ### Existing Features
 
